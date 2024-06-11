@@ -1,4 +1,4 @@
-<h2 align="left">Hi I'm Izumi.code.<br>Passionate about coding.</h2>
+<h2 align="left">Hi I'm Izumii.code<br>Passionate about coding.</h2>
 
 ###
 
