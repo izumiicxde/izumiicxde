@@ -1,4 +1,4 @@
-<h2 align="left">Hi I'm Izumii.code<br> just-code.</h2>
+<h2 align="left">Hi I'm Izumii.code<br></h2>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=izumiicxde&show_icons=true&locale=en&layout=compact" alt="izumiicxde" /></p>
